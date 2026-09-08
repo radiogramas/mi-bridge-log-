@@ -1,1 +1,5 @@
-/data/data/com.termux/files/home/bin/ai-run.sh: line 3: string: No such file or directory
+total 15
+drwx------. 3 u0_a256 u0_a256 3452 Sep  8 02:57 .
+drwx------. 6 u0_a256 u0_a256 3452 Sep  8 02:56 ..
+drwx------. 7 u0_a256 u0_a256 3452 Sep  8 11:46 .git
+-rw-------. 1 u0_a256 u0_a256   90 Sep  8 11:46 output.log
